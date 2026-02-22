@@ -1,6 +1,4 @@
 ### Welcome to my GitHub
-- 🔭 I’m currently working on [TripComputer based on K-Line to Arduino](https://github.com/radimovotajemno/golf-mk4-tripcomputer-ardKWP1281)
-- 🌱 I’m currently learning: basics of Arduino
 - 📫 How to reach me: by mail(info@radimonda.cz) or on my ig below
 
 <h3 align="left">Connect with me:</h3>
