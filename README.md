@@ -1,3 +1,3 @@
 ### Welcome to my GitHub
-radimonda.cz
+https://radimonda.cz  
 info@radimonda.cz
